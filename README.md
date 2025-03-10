@@ -5,4 +5,5 @@ This repository contains the solution to an interview task for Equinox. The goal
 To get started, clone the repository to your local machine:
 
 git clone https://github.com/MJF93/equinox-interview.git
+
 cd equinox-interview
