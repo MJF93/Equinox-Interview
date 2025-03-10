@@ -7,3 +7,5 @@ To get started, clone the repository to your local machine:
 git clone https://github.com/MJF93/equinox-interview.git
 
 cd equinox-interview
+
+All 3 test have been attempted.
